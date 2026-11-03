@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">S23 Ultra AI Director</string>
+    <string name="accessibility_service_description">Automates dialing recommended ISO, Shutter Speed, White Balance, and Lens switching inside Samsung Pro Camera and Expert RAW.</string>
+</resources>
